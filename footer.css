@@ -1,0 +1,87 @@
+/* Remove default margin */
+body {
+    margin: 0;
+    font-family: Arial;
+}
+
+/* Header design */
+ header {
+    background-image: url("https://tvkassets.minsky.studio/media/flag.png");
+    background-size: cover;
+    background-position:center;
+    color: white;
+    text-align: center;
+    padding: 40px;
+}
+
+
+
+
+/* Navigation links */
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 10px;
+}
+
+/* Main content */
+.content {
+    background-color: lightgray;
+    padding: 50px;
+    height: 200px;
+    text-align: center;
+}
+
+/* Footer design */
+footer {
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
+
+/* Arrange footer columns */
+.footer-container {
+    display: flex;
+    justify-content: space-around;
+}
+
+/* Footer headings */
+h3 {
+    color: yellow;
+}
+
+/* Footer links */
+.footer-container a {
+    color: white;
+    text-decoration: none;
+}
+
+/* Mouse hover effect */
+.footer-container a:hover {
+    color: yellow;
+    text-decoration: underline;
+}
+
+/* Copyright design */
+.copyright {
+    background-color: gray;
+    text-align: center;
+    padding: 5px;
+}
+
+/* Social media icons */
+.footer-container i {
+    font-size: 20px;
+    margin-right: 10px;
+}
+
+/* Link design */
+.footer-container a {
+    color: white;
+    text-decoration: none;
+}
+
+/* Hover effect */
+.footer-container a:hover {
+    color: yellow;
+}
