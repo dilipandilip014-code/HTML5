@@ -1,0 +1,8 @@
+button.btn {
+    text-align: right;
+    width: auto;
+    font-size: larger;
+    color: blue;
+    font-family: emoji;
+    background-color: black;
+}
